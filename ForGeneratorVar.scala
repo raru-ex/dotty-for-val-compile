@@ -1,4 +1,4 @@
-object DottyForGenerator extends App {
+object ForGeneratorVar extends App {
 
   for {
     arg1 <- Seq(1,2)
